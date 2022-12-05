@@ -9,26 +9,26 @@ This year I will try to complete Advent of Code using Python and improve my skil
 
 In TODO list
 
-# [AoC 2020](https://webdeasy.de/wp-content/uploads/2020/06/404-pages.jpg)
+# [AoC 2020](https://github.com/MantasSilanskas/Advent-Of-Code-2020)
 
 In TODO list
 
-# [AoC 2019](https://webdeasy.de/wp-content/uploads/2020/06/404-pages.jpg)
+# [AoC 2019](https://github.com/MantasSilanskas/Advent-Of-Code-2019)
 
 In TODO list
 
-# [AoC 2018](https://webdeasy.de/wp-content/uploads/2020/06/404-pages.jpg)
+# [AoC 2018](https://github.com/MantasSilanskas/Advent-Of-Code-2018)
 
 In TODO list
 
-# [AoC 2017](https://webdeasy.de/wp-content/uploads/2020/06/404-pages.jpg)
+# [AoC 2017](https://github.com/MantasSilanskas/Advent-Of-Code-2017)
 
 In TODO list
 
-# [AoC 2016](https://webdeasy.de/wp-content/uploads/2020/06/404-pages.jpg)
+# [AoC 2016](https://github.com/MantasSilanskas/Advent-Of-Code-2016)
 
 In TODO list
 
-# [AoC 2015](https://webdeasy.de/wp-content/uploads/2020/06/404-pages.jpg)
+# [AoC 2015](https://github.com/MantasSilanskas/Advent-Of-Code-2015)
 
 In TODO list
