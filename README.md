@@ -5,7 +5,7 @@ Planning to complete all AoC yearly challenges and put them in here
 
 This year I will try to complete Advent of Code using Python and improve my skills while doing it.
 
-# [AoC 2021](https://github.com/MantasSilanskas/Advent-Of-Code-2022)
+# [AoC 2021](https://github.com/MantasSilanskas/Advent-Of-Code-2021)
 
 In TODO list
 
